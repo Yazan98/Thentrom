@@ -1,10 +1,10 @@
-<scheme name="thentrom-theme" version="1" parent_scheme="Darcula">
+<scheme name="Thentrom" version="1" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-04-20T17:20:05</property>
     <property name="ide">Intellij</property>
     <property name="ideVersion">2019.1.1.0.0</property>
     <property name="modified">2020-1-17</property>
-    <property name="originalScheme">_@thentrom-theme</property>
+    <property name="originalScheme">_@new_thentrom-theme</property>
   </metaInfo>
   <colors>
     <option name="DOCUMENTATION_COLOR" value="303a45" />
