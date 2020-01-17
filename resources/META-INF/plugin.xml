@@ -1,0 +1,26 @@
+<idea-plugin>
+  <id>com.yazan98.intellij.theme.thentrom</id>
+  <name>Thentrom</name>
+  <version>1.0</version>
+  <vendor email="yazantarifi1@hotmail.com" url="https://yazan98.github.io">Thentrom</vendor>
+
+  <description><![CDATA[
+      Plugin For Intellij Theme <br> To Config THe IDE With Vortex
+    ]]></description>
+
+  <change-notes><![CDATA[
+     Implement The Vortex Library For Android, SpringBoot
+    ]]>
+  </change-notes>
+  <idea-version since-build="173.0"/>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider path="/META-INF/thentrom_theme.theme.json" id="76fa3cce-3d85-455b-a7b6-551f4c8a03d7"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
