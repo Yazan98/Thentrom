@@ -7,10 +7,11 @@
     <property name="originalScheme">_@new_thentrom-theme</property>
   </metaInfo>
   <colors>
+    <option name="FILESTATUS_ADDED" value="1DE9B6" />
+    <option name="FILESTATUS_COPIED" value="62cc47" />
+    <option name="FILESTATUS_DELETED" value="FF5252" />
     <option name="DOCUMENTATION_COLOR" value="303a45" />
-    <option name="ERROR_HINT" value="770600" />
-    <option name="FILESTATUS_ADDED" value="40bf77" />
-    <option name="FILESTATUS_UNKNOWN" value="f9846c" />
+    <option name="ERROR_HINT" value="FF5252" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d8ecfe" />
     <option name="GUTTER_BACKGROUND" value="202831" />
     <option name="INDENT_GUIDE" value="303a45" />

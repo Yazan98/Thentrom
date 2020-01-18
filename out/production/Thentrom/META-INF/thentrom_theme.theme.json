@@ -2,28 +2,21 @@
   "name": "thentrom-theme",
   "dark": true,
   "author": "Yazan Tarifi | yazantarifi1@hotmail.com",
-
   "editorScheme": "/META-INF/thentrom_theme.xml",
-
   "ui": {
     "*": {
-      "background": "#202831",
+      "background": "#37474F",
       "foreground": "#F9890B",
-
-      "infoForeground": "#6f7a86",
-
-      "selectionBackground": "#303a45",
-      "selectionForeground": "#ececee",
-      "selectionInactiveBackground": "#303a45",
-      "selectionBackgroundInactive": "#303a45",
-
+      "infoForeground": "#1DE9B6",
+      "selectionBackground": "#4f4a22",
+      "selectionForeground": "#1DE9B6",
+      "selectionInactiveBackground": "#4f4a22",
+      "selectionBackgroundInactive": "#1DE9B6",
       "disabledBackground": "#70011f",
       "inactiveBackground": "#70011f",
-
       "disabledForeground": "#303a45",
       "disabledText": "#303a45",
       "inactiveForeground": "#ececee",
-
       "acceleratorForeground": "#ececee",
       "acceleratorSelectionForeground": "#ececee",
 
@@ -376,6 +369,10 @@
       "warningBackground": "#a56a01",
       "warningBorderColor": "#a56a01"
     },
+
+    "Notification.ToolWindow.informativeBackground": "#F9890B",
+    "Editor.foreground": "#F9890B",
+    "EditorPane.foreground": "F9890B",
 
     "VersionControl": {
       "Log.Commit": {

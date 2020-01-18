@@ -3,13 +3,13 @@
   <name>Thentrom</name>
   <version>1.0</version>
   <vendor email="yazantarifi1@hotmail.com" url="https://yazan98.github.io">Thentrom</vendor>
-
   <description><![CDATA[
-      Plugin For Intellij Theme <br> To Config THe IDE With Vortex
+      Thentrom Intellij Theme To Config Orange Theme With Kotlin Language <br>
+      THis plugin is Just For Kotlin Language With Vortex Implementation <br>
+      Version 1.0 <br>
     ]]></description>
-
   <change-notes><![CDATA[
-     Implement The Vortex Library For Android, SpringBoot
+     First Release From The Kotlin Theme With Vortex-io
     ]]>
   </change-notes>
   <idea-version since-build="173.0"/>
