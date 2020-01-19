@@ -13,7 +13,7 @@
     <option name="DOCUMENTATION_COLOR" value="303a45" />
     <option name="ERROR_HINT" value="FF5252" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d8ecfe" />
-    <option name="GUTTER_BACKGROUND" value="202831" />
+    <option name="GUTTER_BACKGROUND" value="282800" />
     <option name="INDENT_GUIDE" value="303a45" />
     <option name="INFORMATION_HINT" value="303a45" />
     <option name="LINE_NUMBERS_COLOR" value="55616c" />
@@ -118,7 +118,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="303a45" />
+        <option name="BACKGROUND" value="282800" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -224,7 +224,7 @@
     </option>
     <option name="CONSOLE_OUTPUT">
       <value>
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="282800" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">

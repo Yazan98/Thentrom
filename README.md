@@ -17,9 +17,9 @@ Under Development
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/29167110/72654834-36263d80-3989-11ea-93a5-230d6bfc74f4.png)
 
-![image](https://user-images.githubusercontent.com/29167110/72654856-56ee9300-3989-11ea-8aa3-6d0926f03ec8.png)
+![image](https://github.com/yberkof/Thentrom/blob/master/ScreenShots/Screenshot%20from%202020-01-19%2016-50-27.png)
+![image](https://github.com/yberkof/Thentrom/blob/master/ScreenShots/Screenshot%20from%202020-01-19%2016-50-35.png)
 
 
 # Contributing

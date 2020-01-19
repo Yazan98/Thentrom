@@ -5,16 +5,16 @@
   "editorScheme": "/META-INF/thentrom_theme.xml",
   "ui": {
     "*": {
-      "background": "#37474F",
-      "foreground": "#F9890B",
+      "background": "#282800",
+      "foreground": "#f9d700",
       "infoForeground": "#1DE9B6",
-      "selectionBackground": "#4f4a22",
+      "selectionBackground": "#282800",
       "selectionForeground": "#1DE9B6",
-      "selectionInactiveBackground": "#4f4a22",
-      "selectionBackgroundInactive": "#1DE9B6",
+      "selectionInactiveBackground": "#282800",
+      "selectionBackgroundInactive": "#454500",
       "disabledBackground": "#70011f",
       "inactiveBackground": "#70011f",
-      "disabledForeground": "#303a45",
+      "disabledForeground": "#282800",
       "disabledText": "#303a45",
       "inactiveForeground": "#ececee",
       "acceleratorForeground": "#ececee",
@@ -90,7 +90,7 @@
     },
 
     "Counter": {
-      "background": "#202831",
+      "background": "#282800",
       "foreground": "#ececee"
     },
 
@@ -113,19 +113,19 @@
     },
 
     "Editor": {
-      "background": "#202831",
+      "background": "#282800",
       "foreground": "#ececee",
       "shortcutForeground": "#6f7a86"
     },
 
-    "EditorPane.inactiveBackground": "#202831",
+    "EditorPane.inactiveBackground": "#282800",
 
     "EditorTabs": {
       "underlineColor": "#3d8beb",
       "underlineHeight": 1,
 
       "underlinedTabBackground": "#303a45",
-      "inactiveColoredFileBackground": "#202831"
+      "inactiveColoredFileBackground": "#282800"
     },
 
     "FileColor": {
@@ -156,7 +156,7 @@
     "NavBar.borderColor": "#303a45",
 
     "Notification": {
-      "background": "#202831",
+      "background": "#282800",
 
       "errorForeground": "#ececee",
       "errorBackground": "#70011f",
@@ -180,9 +180,9 @@
     },
 
     "ParameterInfo": {
-      "background": "#303a45",
+      "background": "#282800",
       "foreground": "#ececee",
-      "currentOverloadBackground": "#303a45",
+      "currentOverloadBackground": "#282800",
       "currentParameterForeground": "#f3c811",
       "lineSeparatorColor": "#434e5b"
     },
@@ -190,12 +190,12 @@
     "Plugins": {
       "Tab": {
         "selectedForeground": "#ececee",
-        "selectedBackground": "#202831",
+        "selectedBackground": "#282800",
         "hoverBackground": "#303a45"
       },
 
       "SearchField.borderColor": "#303a45",
-      "SectionHeader.background": "#303a45",
+      "SectionHeader.background": "#282800",
       "tagBackground": "#303a45",
       "tagForeground": "#ececee",
 
@@ -282,7 +282,7 @@
       },
       "SearchField.borderColor": "#303a45",
       "Advertiser": {
-        "background": "#202831",
+        "background": "#282800",
         "borderInsets": "3,8,5,0"
       }
     },
