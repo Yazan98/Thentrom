@@ -19,6 +19,7 @@ Under Development
 
 
 ![image](https://github.com/yberkof/Thentrom/blob/master/ScreenShots/Screenshot%20from%202020-01-19%2016-50-27.png)
+![image](https://github.com/yberkof/Thentrom/blob/master/ScreenShots/Screenshot%20from%202020-01-19%2016-50-35.png)
 
 
 # Contributing
